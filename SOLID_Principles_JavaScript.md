@@ -1262,3 +1262,11 @@ Recommended patterns to connect with SOLID:
 - Decorator → OCP + SRP
 
 A good next exercise is to take an existing messy JavaScript/TypeScript service and refactor it one principle at a time.
+
+
+
+
+
+reacource: https://github.com/devbootstrap/SOLID-Principles-Examples-using-Typescript/blob/master/isp/README.md 
+https://www.digitalocean.com/community/conceptual-articles/s-o-l-i-d-the-first-five-principles-of-object-oriented-design#interface-segregation-principle
+https://www.youtube.com/watch?v=MrDYsFbtFZM
